@@ -5,11 +5,11 @@
 
 **User composer require laravel/breeze --dev** command for insalling laravel-breeze package 
 
-**Reason for using Laravel-Breeze
+**Reason for using Laravel-Breeze**
   - It provides a simple authentication system including login, registration, and session handling.
   -  It’s a perfect fit for CRUD-based projects like your blog.
 
-###For populating Dummy Data we can use following command
+### For populating Dummy Data we can use following command
 
 **For Populating User and Post Data**
 >php artisan db:seed   
@@ -67,5 +67,7 @@ Password: password
 
 
 **Designed and Developed By**
+
 *Kapil Dev*
+
 [kapil.d687@gmail.com]
